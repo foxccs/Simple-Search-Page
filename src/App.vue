@@ -37,7 +37,7 @@
     <!-- <Background @background="set_background"></Background> -->
     <div id="message"></div>
     <div id="foot">©2024-2025
-      <a class="out_link" href="https://www.foxccs.cn/" target="_blank">狐狸导航</a> 
+      <a class="out_link" href="https://www.foxccs.cn/" target="_blank">狐狸导航</a>&nbsp;&nbsp;
       <a class="out_link beian" href="https://beian.miit.gov.cn/" target="_blank">鲁ICP备2023044326号</a>
       <a>&nbsp;</a>
       <a class="out_link beian" href="https://beian.mps.gov.cn/#/query/webSearch?code=51019002006069"
